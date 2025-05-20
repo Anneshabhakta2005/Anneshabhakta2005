@@ -3,7 +3,6 @@
 - 👀 I’m interested in coding,playing guitar,singing
 - 🌱 I’m currently learning HTML|CSS|JS|REACT|Exploring Backened development🌟
 - 📫 How to reach me https://www.linkedin.com/in/annesha-bhakta-17b236313/
-- instagram id: @_annesha_bhakta
 - 😄 Pronouns: She/her
 
 <!---
